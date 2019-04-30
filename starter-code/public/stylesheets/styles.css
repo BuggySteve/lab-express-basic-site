@@ -1,0 +1,24 @@
+article {
+  margin: 15px;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin: 5vh;
+}
+
+body {
+  background-image: url("../images/trojan-war.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 5vh;
+}
